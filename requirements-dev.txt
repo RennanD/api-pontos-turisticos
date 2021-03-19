@@ -5,7 +5,7 @@ dj-static==0.0.6
 Django==2.1.5
 django-filter==2.1.0
 django-storages==1.7.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 docutils==0.14
 jmespath==0.9.3
 Markdown==3.0.1
